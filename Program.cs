@@ -9,6 +9,6 @@ Console.WriteLine();
 Console.WriteLine("Введите массив данных через запятую без пробелов, например, [hello,2,djfhg,:-),Krasnodar]:");
 string arrayStr = Console.ReadLine() ?? "";
 string[] array = arrayStr.Split(",");
-
 var resultArray = array.Where(x => x.Length < 4).ToArray();
+Console.WriteLine();
 Console.Write("Сгенерированный массив:" + "[" + string.Join(", ", resultArray) + "]");
