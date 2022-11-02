@@ -1,0 +1,15 @@
+D:\Семинар Итог ДЗ\bin\Debug\net6.0\Семинар Итог ДЗ.exe
+D:\Семинар Итог ДЗ\bin\Debug\net6.0\Семинар Итог ДЗ.deps.json
+D:\Семинар Итог ДЗ\bin\Debug\net6.0\Семинар Итог ДЗ.runtimeconfig.json
+D:\Семинар Итог ДЗ\bin\Debug\net6.0\Семинар Итог ДЗ.dll
+D:\Семинар Итог ДЗ\bin\Debug\net6.0\Семинар Итог ДЗ.pdb
+D:\Семинар Итог ДЗ\obj\Debug\net6.0\Семинар Итог ДЗ.csproj.AssemblyReference.cache
+D:\Семинар Итог ДЗ\obj\Debug\net6.0\Семинар Итог ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинар Итог ДЗ\obj\Debug\net6.0\Семинар Итог ДЗ.AssemblyInfoInputs.cache
+D:\Семинар Итог ДЗ\obj\Debug\net6.0\Семинар Итог ДЗ.AssemblyInfo.cs
+D:\Семинар Итог ДЗ\obj\Debug\net6.0\Семинар Итог ДЗ.csproj.CoreCompileInputs.cache
+D:\Семинар Итог ДЗ\obj\Debug\net6.0\Семинар Итог ДЗ.dll
+D:\Семинар Итог ДЗ\obj\Debug\net6.0\refint\Семинар Итог ДЗ.dll
+D:\Семинар Итог ДЗ\obj\Debug\net6.0\Семинар Итог ДЗ.pdb
+D:\Семинар Итог ДЗ\obj\Debug\net6.0\Семинар Итог ДЗ.genruntimeconfig.cache
+D:\Семинар Итог ДЗ\obj\Debug\net6.0\ref\Семинар Итог ДЗ.dll
